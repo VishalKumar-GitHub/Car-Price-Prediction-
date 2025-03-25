@@ -70,7 +70,7 @@ Below, I will walk through the step-by-step approach to building a **Machine Lea
 ## Data Details
 
 - **Dataset**: The data is stored in the file **"CarPricesData.csv"**, which contains **1435 car price records**.
-- You can download the dataset required for this case study [here](#).
+- You can also download the dataset required for this case study in Readme
 
 ### Data Description
 Here is the business meaning of each column in the data:
