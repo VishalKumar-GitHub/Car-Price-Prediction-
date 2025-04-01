@@ -10,6 +10,8 @@ The price is determined based on various specifications such as:
 - The number of kilometers it has run, and much more.
 
 In this case study, the goal is to create a **machine learning model** that can predict the price of a car based on its specifications.
+![image](https://github.com/user-attachments/assets/34b381bc-0e65-4aac-9d95-6a16d7f7cbba)
+
 
 Below, I will walk through the step-by-step approach to building a **Machine Learning predictive model** for this scenario.
 
